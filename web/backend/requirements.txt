@@ -13,7 +13,7 @@ premailer==3.2.0
 pycparser==2.20
 pyodbc==4.0.30
 pytz==2019.3
-requests==2.18.4
+requests==2.20.0
 six==1.14.0
 sqlparse==0.3.1
 urllib3==1.22
